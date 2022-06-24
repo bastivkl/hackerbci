@@ -1,0 +1,8 @@
+autopep8==1.6.0
+brainflow==5.0.1
+nptyping==1.4.4
+numpy==1.23.0
+pkg_resources==0.0.0
+pycodestyle==2.8.0
+toml==0.10.2
+typish==1.9.3
